@@ -16,7 +16,7 @@ a:hover {
 
 h1, h2, h3{
   line-height: 1.2;
-  color: #246E92;
+  color: #7E225A;
   text-transform: uppercase;
 }
 
@@ -118,7 +118,7 @@ h3{
 }
 
 .bg-primary {
-  background-color: #B3A6F1;
+  background-color: #11266E;
 }
 
 .d-none {
